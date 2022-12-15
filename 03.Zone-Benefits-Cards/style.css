@@ -1,0 +1,38 @@
+.article{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+h4{
+    color: rgb(24, 164, 52);
+}
+
+#grunt{ 
+    height: 200px ;
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#gulp{
+    height: 200px ;
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+#git{
+    height: 200px ;
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#npm{
+    height: 200px ;
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
