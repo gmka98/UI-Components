@@ -1,0 +1,31 @@
+@media viewport ()
+
+h1{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+span{
+      color: rgb(0, 255, 136);
+      
+}
+
+button{
+    background-color: rgb(0, 255, 136);
+    color: aliceblue;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+}
