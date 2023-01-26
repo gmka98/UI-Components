@@ -1,0 +1,19 @@
+.all{
+    position: relative;
+}
+.text{
+    position: absolute;
+}
+
+button{
+    background-color: goldenrod;
+}
+
+.image{
+    background-image: url(./image/kid.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
